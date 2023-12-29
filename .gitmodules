@@ -13,3 +13,6 @@
 [submodule "e-commrce"]
 	path = e-commrce
 	url = https://github.com/Sakthiadhavan/e-commrce.git
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/Sakthiadhavan/calculator.git
