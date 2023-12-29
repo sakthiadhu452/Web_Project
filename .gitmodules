@@ -1,3 +1,6 @@
 [submodule "Youtube_Video_Downloder"]
 	path = Youtube_Video_Downloder
 	url = https://github.com/Sakthiadhavan/Youtube_Vedio_Downloder.git
+[submodule "quiz-game"]
+	path = quiz-game
+	url = https://github.com/Sakthiadhavan/quiz-game.git
