@@ -10,3 +10,6 @@
 [submodule "tic-toe-game"]
 	path = tic-toe-game
 	url = https://github.com/Sakthiadhavan/tic-toe-game.git
+[submodule "e-commrce"]
+	path = e-commrce
+	url = https://github.com/Sakthiadhavan/e-commrce.git
