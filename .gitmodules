@@ -4,3 +4,6 @@
 [submodule "quiz-game"]
 	path = quiz-game
 	url = https://github.com/Sakthiadhavan/quiz-game.git
+[submodule "Elective_And_Faculty_Picker-Hackathon-"]
+	path = Elective_And_Faculty_Picker-Hackathon-
+	url = https://github.com/Sakthiadhavan/elective-and-faculty-picker2.git
