@@ -7,3 +7,6 @@
 [submodule "Elective_And_Faculty_Picker-Hackathon-"]
 	path = Elective_And_Faculty_Picker-Hackathon-
 	url = https://github.com/Sakthiadhavan/elective-and-faculty-picker2.git
+[submodule "tic-toe-game"]
+	path = tic-toe-game
+	url = https://github.com/Sakthiadhavan/tic-toe-game.git
